@@ -3,3 +3,5 @@ node_modules
 package-lock.json
 # Local Netlify folder
 .netlify
+git config --global user.email info@metacannabisentrepreneurs.io
+git config --global user.name partsman34
