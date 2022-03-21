@@ -8,12 +8,12 @@
   --font-primary: 'Poppins', sans-serif;
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
+  --bg-image: url('../images/x-icon/android-chrome-512x512.png');
   --bg-color: #000000;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #550bcc;
   --header-shadow: #000 0px 0px 5px;
-  --bg-image: url('../images/header2/header2.jpg');
 }
 
 * {
