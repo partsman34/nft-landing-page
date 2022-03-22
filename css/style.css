@@ -44,6 +44,7 @@ body {
 
 header {
   box-shadow: var(--header-shadow);
+  color: aqua;
 }
 
 header .container {
