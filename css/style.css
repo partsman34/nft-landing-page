@@ -26,7 +26,7 @@ body {
   background-image: var(--bg-image);
   display: flex;
   flex-flow: column;
-  height: 300vh;
+  height: 1500vh;
   color: var(--font-color);
   font-family: var(--font-primary);
 }
