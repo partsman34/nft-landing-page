@@ -27,6 +27,7 @@ body {
   display: flex;
   flex-flow: column;
   height: 150vh;
+  align-items: initial;
   color: var(--font-color);
   font-family: var(--font-primary);
 }
