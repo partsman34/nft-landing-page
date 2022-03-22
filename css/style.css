@@ -8,7 +8,7 @@
   --font-primary: 'Poppins', sans-serif;
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
-  --bg-image: url('../images/x-icon/android-chrome-512x512.png');
+  --bg-image: url('../images/x-icon/background.png');
   --bg-color: #000000;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
@@ -26,7 +26,7 @@ body {
   background-image: var(--bg-image);
   display: flex;
   flex-flow: column;
-  height: 100vh;
+  height: 300vh;
   color: var(--font-color);
   font-family: var(--font-primary);
 }
